@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Kem",
+        "lastname": "Hokn",
+        "age":"20",
+        "gender": "Male",
+        "interests": "music, art, hiking, painting",
+        "location": "94112",
+        "about_me": "Friends would describe me as intelligent, driven, witty and affectionate. I am an ambitious person and enjoy meeting new people and finding ways to help them have an uplifting experience.",
+        "photo": "images/photo1.jpg"
+    },
+    {
+        "name": "Ben",
+        "lastname": "Lmanov",
+        "age":"30",
+        "gender": "Male",
+        "interests": "computers",
+        "location": "94123",
+        "about_me": "Travelling is also a major passion of mine, and I spend a lot of my free-time planning out future adventures. I would love to travel through South America sometime, especially Argentina. Something about the culture just speaks to me... not to mention, they make fantastic wine. ",
+        "photo": "images/bob.jpg"
+    },
+    {
+        "name": "Ann",
+        "lastname": "Smith",
+        "age":"27",
+        "gender": "Female",
+        "interests": "music, art, movie",
+        "location": "94016",
+        "about_me": "I`m new the city and looking to meet some nice people. If you like any of this things, we will get along great.",
+        "photo": "images/photo2.jpg"
+
+    },
+    {
+        "name": "Sara",
+        "lastname": "White",
+        "age":"23",
+        "gender": "Female",
+        "interests": "bars, pubs, night clubs",
+        "location": "94102",
+        "about_me": "I`m an outgoing lady who loves nightlife, weekend adventures, dancing, karaoke and meeting new people!",
+        "photo": "images/photo3.jpg"
+
+    },
+    {
+        "name": "Alexandr",
+        "lastname": "Powell",
+        "age":"31",
+        "gender": "Male",
+        "interests": "sport, hiking, nature.",
+        "location": "94104",
+        "about_me": "I`m a nice person, who likes getting out to the nature and hiking. On my Sundays I'm going to the gym and like to do yoga or exercise.",
+        "photo": "images/photo4.jpg"
+
+    },
+    {
+        "name": "Bella",
+        "lastname": "Lynn",
+        "age":"35",
+        "gender": "Female",
+        "interests": "music, painting, art, nightlife",
+        "location": "94112",
+        "about_me": "Hello Everyone! I can describe myself as an active person, who is interesting in social live, like to go the museums, theaters and  listen live music. Message me, if you are looking for a company!",
+        "photo": "images/photo5.jpg"
+
+    },
+    {
+        "name": "Cameron",
+        "lastname": "Kim",
+        "age":"33",
+        "gender": "Female",
+        "interests": "music, art, travel",
+        "location": "94107",
+        "about_me": "I`m a kind and easygoing person. I like traveling and  recently back from my trip in Europe. Looking for someone who also like to get new experience, getting know other people and cultures.",
+        "photo": "images/photo6.jpg"
+
+    },
+    {
+        "name": "Kerry",
+        "lastname": "Brown",
+        "age":"37",
+        "gender": "Male",
+        "interests": "restaurants, bars",
+        "location": "94124",
+        "about_me": "Let me know if you are also enjoy trying a new dinner place or visiting a local bars.",
+        "photo": "images/photo7.jpg"
+
+    },
+    {
+        "age":"32",
+        "about_me":"I have an 18 month old german shepherd named Ringo - he unfortunately lost one of his legs in a car accident, but he's still the cutest thing on the planet! I love animals and hope to meet someone who shares this passion. "
+    },
+    {
+        "age":"29",
+        "about_me":"Please Note: If you can't go 5 minutes without checking Facebook on your phone, we're probably not a good match. However, if you enjoy having thought-provoking conversation and aren't afraid of the occasional spirited debate, give me a shout!"
+    },
+    {
+        "about_me":"On a typical Friday night I am probably attending yoga class, or biking down one of the many gorgeous trails in our city. I'm the type of person who will do things on a whim, and I'm looking for a partner with the same mentality. ",
+        "age":"23"
+    },
+    {
+        "about_me":"I make an effort to eat raw foods as much as possible, but I've been known to indulge in a Big Mac on occasion. (I must admit, there's no better cure for a hangover than two all-beef patties, special sauce, lettuce, cheese, pickles, onions on a sesame seed bun!) ",
+        "age":"34"
+    },
+    {
+        "about_me":"Anyway, if you're a laid-back intellectual who can appreciate a freshly made quinoa salad and the occasional chai latte, send me a message. ",
+        "age":"21"
+    },
+    {
+        "about_me":"My biggest passion in life is music. I LOVE Bon Jovi, Journey and Van Halen (and pretty much every other hair band from the 80's!). There's nothing quite as exhilarating as strumming on a six-string with my friends as we sing classic rock songs at the top of our lungs. ",
+        "age":"22"
+    }
+    ]
