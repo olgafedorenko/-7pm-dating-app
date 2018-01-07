@@ -1,4 +1,3 @@
-[![Watch the video](http://recordit.co/r49emKjl4L)]
 
 
 •  Designed a dating app which parses the JSON data and renders it in a nicer-looking, responsive UI (using Bootstrap).
